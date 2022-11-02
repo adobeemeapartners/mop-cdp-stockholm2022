@@ -115,8 +115,8 @@ Environments:
 ## Agenda
 
 - 9.15 Intro to the Workshop
-- 9.30 RT-CDP Overview
-- 10.00 Demo Customer Pitch (by Adobe Solution Consulting)
+- 9.30 Real-Time CDP Jumpstart 
+- 10.00 Demo Customer Pitch and Q&A (with an Adobe Solution Consultant)
 - 10.45 Coffee Break
 - 11.00 Team Assignment and Environments Handover
 - 12.00 Lunch
@@ -133,5 +133,5 @@ Environments:
 ## Feedback Form
 
 We will be more than happy to hear about your experience today. Any suggestions how to imporve this series are highly valuable to us.
-Link: https://forms.office.com/r/8NjntSwiqB 
+Link: 
 
