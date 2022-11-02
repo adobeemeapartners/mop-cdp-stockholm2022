@@ -50,8 +50,8 @@ Challenges:
 * Unable to see a single customer view across channels, LOBs and devices
 
 Environments:
-- [link here](https://builder.adobedemo.com/web/sevcik-MW9W/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: sevcik-UM4Z (mobile)
+- [link here]() (web)
+- open DX Demo app on your mobile device, Enter this Project ID:  (mobile)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
 ### Scenario B: SecurFinance (FSI)
@@ -61,8 +61,8 @@ Challenges:
 * Cross-channel view of their customers that effectively combines digital and traditional data channels
 
 Environments:
-- [link here](https://builder.adobedemo.com/web/sevcik-RFEX/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: sevcik-DVVL (mobile)
+- [link here]() (web)
+- open DX Demo app on your mobile device, Enter this Project ID:  (mobile)
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
 ### Scenario C: Carvelo (Automotive)
@@ -74,7 +74,7 @@ Challenges:
 
 Environments:
 
-- [link here](https://builder.adobedemo.com/web/sevcik-R5LR/home) (web)
+- [link here]() (web)
 - open DX Demo app on your mobile device, Enter this Project ID: Not Available, Carvelo's focus is on Call-center channel.
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
@@ -87,8 +87,8 @@ Challenges:
 
 Environments:
 
-- [link here](https://builder.adobedemo.com/run/sevcik-ISRX/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: sevcik-F5A8 (mobile)
+- [link here]() (web)
+- open DX Demo app on your mobile device, Enter this Project ID:  (mobile)
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
 ## Experience Platform
