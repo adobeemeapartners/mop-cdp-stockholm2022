@@ -40,8 +40,7 @@ Challenges:
 * On-boarding can be complex and form intensive for loans or investments
 * Communications are static and doesn’t adjust to changes in customer context
 
-Environments:
-- not available
+All front-end assets an be also access here: [Demo System Next Projects](https://builder.adobedemo.com)
 
 ### Scenario A: Luma (Retail)
 
@@ -50,8 +49,8 @@ Challenges:
 * Unable to see a single customer view across channels, LOBs and devices
 
 Environments:
-- [link here]() (web)
-- open DX Demo app on your mobile device, Enter this Project ID:  (mobile)
+- [link here](https://builder.adobedemo.com/web/cdpmop-a/home) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdpmop-a-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
 ### Scenario B: SecurFinance (FSI)
@@ -61,8 +60,8 @@ Challenges:
 * Cross-channel view of their customers that effectively combines digital and traditional data channels
 
 Environments:
-- [link here]() (web)
-- open DX Demo app on your mobile device, Enter this Project ID:  (mobile)
+- [link here](https://builder.adobedemo.com/web/cdpmop-b/home) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdpmop-b-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
 ### Scenario C: Carvelo (Automotive)
@@ -74,8 +73,8 @@ Challenges:
 
 Environments:
 
-- [link here]() (web)
-- open DX Demo app on your mobile device, Enter this Project ID: Not Available, Carvelo's focus is on Call-center channel.
+- [link here](https://builder.adobedemo.com/web/cdpmop-c/home) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdpmop-c-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
 ### Scenario D: City Signal (Telco)
@@ -87,8 +86,9 @@ Challenges:
 
 Environments:
 
-- [link here]() (web)
-- open DX Demo app on your mobile device, Enter this Project ID:  (mobile)
+- [link here](https://builder.adobedemo.com/run/cdpmop-d/home) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdpmop-d-mobile (mobile)
+- [link here](https://builder.adobedemo.com/run/cdpmop-d/home) (call center) 
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
 ## Experience Platform
