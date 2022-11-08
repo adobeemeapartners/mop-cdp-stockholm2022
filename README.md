@@ -40,8 +40,6 @@ Challenges:
 * On-boarding can be complex and form intensive for loans or investments
 * Communications are static and doesn’t adjust to changes in customer context
 
-All front-end assets can be also accessed here: [Demo System Next Projects](https://builder.adobedemo.com)
-
 ### Scenario A: Luma (Retail)
 
 Challenges:
