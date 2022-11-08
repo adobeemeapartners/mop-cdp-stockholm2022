@@ -49,8 +49,9 @@ Challenges:
 * Unable to see a single customer view across channels, LOBs and devices
 
 Environments:
-- [link here](https://builder.adobedemo.com/web/cdpmop-a/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdpmop-a-mobile (mobile)
+- [link here](https://builder.adobedemo.com/web/cdp-mop-a) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-a-mobile (mobile)
+- CX app: https://builder.adobedemo.com/cx/cdp-mop-a-cx
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
 ### Scenario B: SecurFinance (FSI)
