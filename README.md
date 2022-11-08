@@ -51,7 +51,7 @@ Challenges:
 Environments:
 - [link here](https://builder.adobedemo.com/web/cdp-mop-a) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-a-mobile (mobile)
-- CX app: https://builder.adobedemo.com/cx/cdp-mop-a-cx
+- [link here](https://builder.adobedemo.com/cx/cdp-mop-a-cx) (call center)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
 ### Scenario B: SecurFinance (FSI)
@@ -61,8 +61,8 @@ Challenges:
 * Cross-channel view of their customers that effectively combines digital and traditional data channels
 
 Environments:
-- [link here](https://builder.adobedemo.com/web/cdpmop-b/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdpmop-b-mobile (mobile)
+- [link here](https://builder.adobedemo.com/web/cdp-mop-b) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-b-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
 ### Scenario C: Carvelo (Automotive)
@@ -74,8 +74,8 @@ Challenges:
 
 Environments:
 
-- [link here](https://builder.adobedemo.com/web/cdpmop-c/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdpmop-c-mobile (mobile)
+- [link here](https://builder.adobedemo.com/web/cdp-mop-c/home) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-c-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
 ### Scenario D: City Signal (Telco)
@@ -87,9 +87,9 @@ Challenges:
 
 Environments:
 
-- [link here](https://builder.adobedemo.com/run/cdpmop-d/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdpmop-d-mobile (mobile)
-- [link here](https://builder.adobedemo.com/run/cdpmop-d/home) (call center) 
+- [link here](https://builder.adobedemo.com/run/cdp-mop-d/home) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-d-mobile (mobile)
+- [link here](https://builder.adobedemo.com/cx/cdp-mop-d-cx) (call center) 
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
 ## Experience Platform
